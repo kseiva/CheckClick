@@ -1,0 +1,10 @@
+// Page.js
+module.exports = class Page {
+    constructor() {
+        this.title = 'My Page';
+    }
+
+    async open (path) {
+        await browser.url(path);
+    }
+}
