@@ -1,4 +1,4 @@
-Перед началом работы нужно установить необходимые зависимости, выполнив команду:
+Before you start, you need to install the necessary dependencies by running the command:
 ```bash
 npm install
 ```
