@@ -8,4 +8,4 @@ npm install
 npx wdio wdio.conf.js
 ```
 
-Перед запуском необходимо заполнить корректными значениями поля логина и пароля в файле test.spec.js!
+Before starting, it is necessary to fill in the correct values of the login and password fields in the file test.spec.js!
