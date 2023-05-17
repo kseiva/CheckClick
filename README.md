@@ -3,7 +3,7 @@ Before you start, you need to install the necessary dependencies by running the 
 npm install
 ```
 
-Запуск тестов:
+Run tests:
 ```bash
 npx wdio wdio.conf.js
 ```
